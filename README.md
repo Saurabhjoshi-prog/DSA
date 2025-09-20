@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saurabhjoshi-prog/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1505-create-target-array-in-the-given-order](https://github.com/Saurabhjoshi-prog/DSA/tree/master/1505-create-target-array-in-the-given-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saurabhjoshi-prog/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Simulation
+|  |
+| ------- |
+| [1505-create-target-array-in-the-given-order](https://github.com/Saurabhjoshi-prog/DSA/tree/master/1505-create-target-array-in-the-given-order) |
 <!---LeetCode Topics End-->
